@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "express": "^4.17.1",
-    "ioredis": "^4.27.6",
+    "ioredis": "^4.28.5",
     "mongoose": "^5.13.2",
     "redis": "^3.1.2",
     "socket.io": "^4.1.2"
