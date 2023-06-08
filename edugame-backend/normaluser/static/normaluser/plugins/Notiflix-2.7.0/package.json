@@ -45,7 +45,7 @@
     "babel-minify": "^0.5.1",
     "clean-css": "^4.2.3",
     "eslint": "^7.6.0",
-    "stylelint": "^13.6.1",
+    "stylelint": "^15.6.0",
     "stylelint-config-standard": "^20.0.0"
   },
   "scripts": {
